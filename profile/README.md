@@ -27,7 +27,7 @@ The <a href="#pdfSqueezer">drag-and-drop batch processing</a> accepts multiple P
 The <a href="#pdfSqueezer">JPEG image recompression</a> applies lossy compression to images embedded in PDFs — the scanned pages, photographs, and graphics that make PDF files large. By recompressing these images at a lower quality level appropriate to the document's viewing context rather than the original scan quality, PDF Squeezer achieves substantial file size reductions. A scanned document that doesn't need to be printed at full resolution for email sharing compresses significantly without quality loss apparent at normal viewing sizes. The <a href="#pdfSqueezer">grayscale conversion option</a> converts color PDF documents to grayscale — documents that contain color images but don't need color for their purpose (text-heavy documents with incidental color elements) reduce significantly through grayscale conversion since color information multiplies image data.
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/349753/m/pdf-squeezer-screenshot.png?v=1670528568" alt="PDF Squeezer screenshot"/>
+  <img src="https://store.setapp.com/cdn-cgi/image/width=1200,quality=75,format=auto/app/188/screenshots/1757795247-68c5d3afc9c85.png" alt="PDF Squeezer screenshot"/>
 </p>
 
 <a href="#pdfSqueezer">Metadata removal</a> strips embedded metadata, thumbnails, and other non-essential data from PDFs — reducing file size by removing data that doesn't affect the document's readable content. <a href="#pdfSqueezer">Color profile optimization</a> processes embedded ICC color profiles that add to PDF file size without affecting appearance in typical viewing contexts.
